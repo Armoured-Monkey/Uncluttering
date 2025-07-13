@@ -4,27 +4,35 @@
         "description": [
             "",
             {
-                "text": "This data pack makes  ",
+                "text": "This data pack makes changes to loot tables to reduce clutter in your inventory. This includes ",
                 "color": "#e25903"
             },
             {
-                "text": "Stone Variants (such as Andesite, Granite, Tuff, ...) ",
+                "text": "Stone Variants (such as Andesite) ",
                 "color": "#d9b35c"
             },
             {
-                "text": "drop ",
+                "text": "dropping ",
                 "color": "#e25903"
             },
             {
-                "text": "Cobblestone ",
+                "text": "Cobblestone",
                 "color": "#d9b35c"
             },
             {
-                "text": "when mined so that they are both useful and take up less space in your inventory. If you need these blocks themselves, you can get them with ",
+                "text": ", all ",
                 "color": "#e25903"
             },
                         {
-                "text": "Silk Touch",
+                "text": "Chickens ",
+                "color": "#d9b35c"
+            },
+            {
+                "text": "dropping the same type of ",
+                "color": "#e25903"
+            },
+                        {
+                "text": "Egg",
                 "color": "#d9b35c"
             },
             {
