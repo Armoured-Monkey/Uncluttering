@@ -1,0 +1,47 @@
+{
+    "display": {
+        "title": "Uncluttering           ",
+        "description": [
+            "",
+            {
+                "text": "This data pack makes  ",
+                "color": "#e25903"
+            },
+            {
+                "text": "Stone Variants (such as Andesite, Granite, Tuff, ...) ",
+                "color": "#d9b35c"
+            },
+            {
+                "text": "drop ",
+                "color": "#e25903"
+            },
+            {
+                "text": "Cobblestone ",
+                "color": "#d9b35c"
+            },
+            {
+                "text": "when mined so that they are both useful and take up less space in your inventory. If you need these blocks themselves, you can get them with ",
+                "color": "#e25903"
+            },
+                        {
+                "text": "Silk Touch",
+                "color": "#d9b35c"
+            },
+            {
+                "text": ".",
+                "color": "#e25903"
+            }
+        ],
+        "icon": {
+            "id": "minecraft:andesite"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "uhc:uhc_control_expansions",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
